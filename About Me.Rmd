@@ -1,0 +1,13 @@
+---
+title: "About Me"
+author: "Michael Ehinmowo"
+date: "2023-03-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## About Me
+
+I am currently rounding up my master's degree in psychology at the University of Ibadan. I am interested in biological basis of human psychology. Currently, my research is at the nexus of computation, genetics, evolution, and psychopathology. 
